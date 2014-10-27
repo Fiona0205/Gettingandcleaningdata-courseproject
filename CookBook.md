@@ -1,4 +1,4 @@
-Cook book
+Code book
 
 Variables in run_analysis.R: 
 xTrain : data frame which stores the training data, reading from X_train.txt 
